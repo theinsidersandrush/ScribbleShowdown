@@ -8,16 +8,23 @@
 - Description from the website:
 
 
-Welcome to Scribble After Dark
+  Scribble Showdown’s older brother who just got out of jail.
 
-"Scribble Showdown’s older brother who just got out of jail.
+  Come see five of YouTube’s biggest animators compete in an improvisational animation game show.
+
+  Arin Hanson (Egoraptor) and the audience will put TheOdd1sOut, JaidenAnimations, RubberRoss, and Domics through a series of brand new competitive drawing games… the  kind of games that can’t be in an All Ages show.
+
+  So bring your IDs (18+) and get ready to hear the F word!
+
+- My own description ofc: 
+
+Scribble Showdown’s older brother who just got out of jail.
 
 Come see five of YouTube’s biggest animators compete in an improvisational animation game show.
 
-Arin Hanson (Egoraptor) and the audience will put TheOdd1sOut, JaidenAnimations, RubberRoss, and Domics through a series of brand new competitive drawing games… the kind of games that can’t be in an All Ages show.
+Egoraptor and the audience will put TheOdd1sOut, JaidenAnimations, RubberRoss, and Domics through a series of brand new competitive drawing games… the kind of games that can’t be in a normal version of the show.
 
-So bring your IDs (for legal purposes ofc (18+)) and get ready to hear the F word!"
-
+So bring your IDs (must be 18 or older to participate) and get ready to hear the F word!
 
 __Updated in November 5th, 2022.__
 
