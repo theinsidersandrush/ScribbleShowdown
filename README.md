@@ -1,4 +1,8 @@
 # Scribble Showdown (November 5th, 2022)
+
+__IMPORTANT: This repository has been archived by the owner on Feb 14, 2023. It is now read-only.__
+
+
 ![title-scribble](https://github.com/theinsidersandrush/ScribbleShowdown/blob/c1d07884c3a4718753571b163f11caadd0fddc78/img/title-scribble.png)
 
 - Recreation of "Scribble Showdown - After Dark"'s website. 
