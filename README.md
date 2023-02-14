@@ -18,4 +18,4 @@
   
   That's it.
   
-  __Will be updating if there's a change. As February 14th, 2022, there are no changes made to this event.__
+  __This event is complete.__
