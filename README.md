@@ -1,6 +1,6 @@
 # Scribble Showdown (November 5th, 2022)
 
-__IMPORTANT: This repository has been archived and no longer to be maintained. Thank you.__
+__IMPORTANT: This repository has been archived and no longer maintained. However, you still can download the source code. Thanks.__
 
 
 ![title-scribble](https://github.com/theinsidersandrush/ScribbleShowdown/blob/c1d07884c3a4718753571b163f11caadd0fddc78/img/title-scribble.png)
